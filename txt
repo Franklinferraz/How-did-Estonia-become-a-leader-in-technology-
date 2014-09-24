@@ -1,0 +1,223 @@
+How did Estonia become a leader in technology?
+Jul 30th 2013, 23:50 by A.A.K. | MUMBAI
+ Timekeeper 
+
+WHEN Estonia regained its independence in 1991, after the collapse of the Soviet Union, less than half its population had a telephone line and its only independent link to the outside world was a Finnish mobile phone concealed in the foreign minister's garden. Two decades later, it is a world leader in technology. Estonian geeks developed the code behind Skype and Kazaa (an early file-sharing network). In 2007 it became the first country to allow online voting in a general election. It has among the world’s zippiest broadband speeds and holds the record for start-ups per person. Its 1.3m citizens pay for parking spaces with their mobile phones and have their health records stored in the digital cloud. Filing an annual tax return online, as 95% of Estonians do, takes about five minutes. How did the smallest Baltic state develop such a strong tech culture?
+
+The foundation was laid in 1992 when Mart Laar, Estonia’s prime minister at the time, defibrillated the flat-lining economy. In less than two years his young government (average age: 35) gave Estonia a flat income-tax, free trade, sound money and privatisation. New businesses could be registered smoothly and without delays, an important spur for geeks lying in wait. Feeble infrastructure, a legacy of the Soviet era, meant that the political class began with a clean sheet. When Finland decided to upgrade to digital phone connections, it offered its archaic 1970s analogue telephone-exchange to Estonia for free. Estonia declined the proposal and built a digital system of its own. Similarly, the country went from having no land registry to creating a paperless one. “We just skipped certain things…Mosaic [the first popular web browser] had just come out and everyone was on a level playing field,” recalls Toomas Hendrik Ilves, the president. Not saddled with legacy technology, the country's young ministers put their faith in the internet.
+
+A nationwide project to equip classrooms with computers followed and by 1998 all schools were online. In 2000, when the government declared internet access to be a human right, the web spread into the boondocks. Free Wi-Fi became commonplace. Rubber stamps, carbon paper and long queues gave way to “e-government”. The private sector followed: the sale of Skype to eBay in 2005, for $2.6 billion, created a new class of Estonian investors, who made tens of millions of euros from their shareholdings—and have been putting their experience, and their windfalls, to good use. Today Tehnopol, a business hub in Tallinn, the perky capital, houses more than 150 tech companies. Given the country’s tiny domestic market, start-ups have been forced to think global, says Taavet Hinrikus, Skype’s first employee and co-founder of TransferWise, a peer-to-peer money-transfer service whose customers are spread across Europe and America. According to the World Bank, over 14,000 new companies registered in Estonia in 2011, 40% more than during the same period in 2008. High-tech industries now account for about 15% of GDP.
+
+How can other countries—that lack Estonia's small size and its clean sheet—follow its example? “It’s sort of obnoxious to say, ‘Do what we did’,” says Mr Ilves. But he submits that Estonia’s success is not so much about ditching legacy technology as it is about shedding “legacy thinking”. Replicating a paper-based tax-filing procedure on a computer, for instance, is no good; having such forms pre-filled so that the taxpayer has only to check the calculations has made the system a success. Education is important, too: last year, in a public-private partnership, a programme called ProgeTiiger (“Programming Tiger”) was announced, to teach five-year-olds the basics of coding. “In the 80s every boy in high-school wanted to be a rock star,” says Mr Hinrikus. “Now everybody in high-school wants to be an entrepreneur.”
+
+Correction: An earlier version of this article stated that Estonian coders helped develop the code for Hotmail. This is incorrect. It was amended on August 5th 2013.
+
+PreviousThe Economist explains: Why is Latin making a comeback? NextThe Economist explains: How can radiation therapy cause heart disease?
+
+Submit to reddit
+inShare
+730
+View all comments (80)
+More from The Economist
+Daily chart: The best places to live
+Daily chart: The best places to live
+19th-century student drinking habits: The not-so-sweet smell of excess
+19th-century student drinking habits: The not-so-sweet…
+Canada's foreign fighters: And don’t come back
+Canada's foreign fighters: And don’t come back
+Poverty traps: Do poor countries really get richer?
+Difference engine: Tesla’s high-stakes gamble
+The collapse of Phones 4U: Death of a salesman
+Tokyo's 2020 Olympics: Back to the future
+Online dating: Tough love
+Scotland: The aftermath: Readers respond to the defeat for independence
+
+Readers' comments
+Reader comments are listed below. Comments are currently closed and new comments are no longer being accepted.
+Sort:Newest firstOldest firstReaders' most recommended
+1 2 3 4 next › last »
+Observational RealistJul 31st 2013, 15:31
+C'mon Economist, this reporting could be better.
+
+You rightly identify Estonia's benefit in tech is that they basically had no legacy systems to deal with, so they could build everything from scratch using modern technology. That was great, and made things a lot easier. It also gave them a great advantage over many other countries saddled with legacy technology and processes.
+
+But doesn't a good journalist look at both sides of the story?
+
+For example, today there's a story about how more than 1,000 children in the capital city of Tallinn do not have a place in kindergarten, despite there being a law that the government must provide it:
+http://news.err.ee/education/986de4f7-6c22-4521-a2b3-fb6956248a56
+
+Then there's demographics, the elephant in the room. Estonia's population continues its rapid decline:
+http://news.err.ee/society/c925de57-ada2-4aa2-ab70-dc63ad0104be
+
+Finally, all these startup companies may not be quite all they're hyped up to be:
+http://techcrunch.com/2013/06/17/meet-doteebubble-the-mysterious-estonia...
+
+My point is that a good journalist should look at both sides of the story. Why is there not at least a closing paragraph like: "Despite this technological lead, Estonian has one of the lowest birth rates in the EU, one of the highest emigration rates in the EU, and the government has tightened some spending to the point that many children can't even get a place in kindergarten. Meanwhile, the success of Estonian startups seems to largely come from an influx of EU money and is unsustainable."
+
+There, I did your job for you :)
+
+Recommend
+135
+ReportPermalink
+ksATooPci8in reply to Observational RealistJul 31st 2013, 18:08
+Well, the title of the article is "How did Estonia become a leader in technology?" rather than "Here we describe every single thing going on in Estonia".
+
+So I for one am not surprised that an article about how Estonia became a technology leader focuses on that one aspect of their economy and doesn't contain information on birthrates. I will agree, however, that the author should have mentioned the possible impact of EU subsidies on the tech industry.
+
+Recommend
+118
+ReportPermalink
+mikeinwarsawJul 31st 2013, 07:19
+Starting effectively from scratch with a very small population (it fits into half of Warsaw or into south-east London with room to spare) is a lot easier than modernising countries with a traditional heavy industry base and large populations of non-productive peasant farmers.
+But the fact is that Estonia's Scandinavian/Germanic historical influences associated with Protestant work ethic gave it a head start when compared with the other Baltic States where Russian Orthodoxy and Roman Catholicism are far more prevalent.
+
+Recommend
+92
+ReportPermalink
+Zbyhnevin reply to guest-lliinjaJul 31st 2013, 10:09
+Innovative? Soviet Union?
+
+There was generous scientific funding for politically favored projects (at the expense of everybody). But I would not dare call that innovation in the modern sense.
+
+Soviet science was a politicised behemoth that produced abortive superexpensive follies as often as it did (despite itself) anything useful.
+
+Recommend
+80
+ReportPermalink
+Zbyhnevin reply to mikeinwarsawJul 31st 2013, 10:07
+It is not a matter of religion (but maybe of lack thereof, Estonia is secular) or small population (except indirectly), it is a matter of swooping aside entrenched vested interest.
+
+Yes, doing that is easier in a smaller country, especially at a time when everybody is super pissed at the lumbering soviet bureaucratic model, which had meanwhile become the norm in western countries. But it can be done in bigger countries too - in fact, it must be done.
+
+Recommend
+77
+ReportPermalink
+guest-lliinjain reply to Connect The DotsJul 31st 2013, 09:13
+If it's innate rather than a cultural thing, then why exactly was the Soviet Union one of the most innovative countries of the 20th century? I don't see why the political and economic deficiencies that remain in Russia do not have a similar effect on people with the skills and the personality to become successful entrepreneurs over there than they did to their counterparts in Estonia when it was still under Communist rule. And quite frankly, I don't buy into the fact that the Balkan peoples have 'better genes'.
+
+Recommend
+74
+ReportPermalink
+South Americanin reply to typingmonkeyJul 31st 2013, 19:01
+This article schould be also read in Greece and above all in Europa.
+
+Recommend
+72
+ReportPermalink
+SeebaasnJul 31st 2013, 18:06
+I never been to Estonia like I also don't really know anyone from the post soviet state, but nevertheless I wish this country and people all the best. I know how hard is to re-built a land after long communism impact.
+
+Recommend
+71
+ReportPermalink
+iThinkerAug 4th 2013, 00:34
+Skype was sold to Ebay for $2.6B in 2005. Ebay later sold it to an investor group Silver Lake Partners in 2009(at a $1.2B loss), who turned around and sold it to Microsoft for $8.5B just 2 years later, which was an insane valuation. Only a fool with too much money to throw around like Steve Ballmer would throw that kind of money at a company like Skype. $8.5B for a company that essentially was operating at a loss and had a long term debt of $686m. Comparatively Microsoft has a market cap of $265B on earnings of $21B, a PE ratio of 12. Microsoft already had Windows Live Messenger with 10x more users than Skype, it did not need to spend another $7B for slightly better technology. It is sitting on far too much cash and should give that back to the shareholders as dividends rather than flittering it away on stupid outrageous acquisitions like these to soothe Ballmer's ego. Much of that $8.5B went to Silver Lake Partners who made out like bandits. Let's just hope Skype doesn't turn into another complete write off like aQuantive, $6.5B!
+
+Hotmail was invented by American Jack Smith and his Indian-American co-worker at Apple, Sabeer Bhatia in 1995. Smith, who was born in the Bay Area and grew up in Oregon, was the one who came up with the idea of anonymous internet mail and built much of the architecture. Sabeer Bathia was born in India, transferred to Caltech as an undergrad and got his master's from Stanford. Hotmail was sold to Microsoft in 1998 for $400m, both worked at Microsoft for a time before moving on to start up other companies in the US. Not sure what Hotmail has to do with Estonia. It was definitely not invented there.
+
+It's great that Estonia is taking full advantage of its small size and completely automate its healthcare, tax filing and voting. Only a country of 1.5m could pull this off, though I'm sure it was still no small task.
+
+I don't know how you could teach 5 year olds how to code. Computer coding requires lots of logic and math skills. However this does speak to the importance of teaching web programming as a basic skill. The US is still so far behind in this regard. We need to start teaching web coding to high school students as a requisite course alongside English and Math.
+
+Recommend
+68
+ReportPermalink
+Connect The DotsJul 31st 2013, 06:15
+Estonia succeeds because of its DNA is Scandinavian
+which was previously buried under Slavic/Central European/Soviet influence.
+
+Estonia succeeds in education, technology, low corruption, and entrepreneurship like Finland.
+And similarly Lithuania and Latvia will follow suit.
+
+Belarus and Ukrainian culture by contrast are more Slavic and Russian.
+
+Recommend
+68
+ReportPermalink
+john4lawJul 31st 2013, 21:53
+It is a John Lennon ( non-Marxist) moment. Imagine the Whole World embracing minimal government and maximum individual responsibility and achievement!! This paradise is no fantasy if we will it.
+
+Recommend
+66
+ReportPermalink
+typingmonkeyJul 31st 2013, 18:11
+This article should be read above all in India. Should Mr. Modi take leadership, he should create free trade zones in each state with high walls to defend them against...the Indian government. Let them be led by young technocrats and returning diaspora, and draw in foreign capital and entrepreneurial Indian intelligentsia.
+
+You cannot move a billion people without agreement on a direction. Carve out space for an Indian Shenzhen, Hong Kong, Dubai, and Estonia. When those stars shine, India will know in which direction to march.
+
+Recommend
+66
+ReportPermalink
+The Coloured European ObserverAug 2nd 2013, 06:14
+As always, the Economist only looks at the elite. There's no room for the concerns of the very poor, or even the lower middle class.
+Two really big problems, a flat tax and electronic voting are brushed off. A flat tax is a perverse transfer of wealth, from poor to rich. That is NEVER a good idea, except for the rich.
+And electronic voting in a country full of would-be hackers, sorry I mean, tech-savvy young people, is a REALLY bad idea. Look at Diebold and Ohio, where the election in 2004 was almost surely stolen. Yes, perfect crime does exist, when the crime partners have a strong interest to keep out of jail.
+
+It's about 591 times harder to cheat with paper ballots than that it is with e-voting. Difference is, e-voting can a few VERY rich people even MORE money, so they're gonna "wield their considerable power" to make sure that councils and states buy their e-voting. And yes, in plain English, that means BRIBING senators, mayors and governors. With Citizens United, the USA has now fully legalized bribing by perversely calling it "free speech".
+Yah.
+
+"Lock them all up in jail without due process" would also be classified as free speech by these jokers.
+
+As always, US free speech means the freedom to make others LESS free. That same mentality has now arrived in Estonia.
+
+If all was so rosy there, how come young Estonians are leaving like crazy for Germany?
+
+Recommend
+64
+ReportPermalink
+local37Aug 1st 2013, 09:47
+I'm surprised that the Economist, a respected publication, would publish such a superficial - nay, propagandist - article. While Estonians have remarkable achievements to point out since independence was restored, the technological advances that the article praises without deeper analysis do not contribute much to the quality of life for us. Some, such as e-voting, have contributed toward corruption.
+
+Recommend
+64
+ReportPermalink
+Anti PropagandaAug 7th 2013, 07:48
+This article contains too many mistakes to be objective.
+Skype was, at best, a hybrid company (Danish-Swedish-Estonian), not Estonian. The founders were a Dane and a Swede. The money and connections came from these two. Estonians, among other nationalities, were a hired staff. Similarly, Apple is not an Chinese company, despite the factories and machinery staff in China.
+Hotmail has no connection to Estonia.
+Transferwise is an UK company. They received some money from the Estonian government, but were never based in Estonia. Ditto Realeyes. The Estonian government, led by the president Toomas Hendrik Ilves, is only too happy to give money to anyone with an Estonian passport or background. It is worth mentioning that there are many well-established companies already doing successfully what Transferwise is attempting to do. Transferwise rates are slightly higher than their competitors and they only have a few currencies available.
+By far not all Estonian schools were online by 1998. This is government propaganda. Many didn't and still don't have money for toilet paper, let alone a computer.
+There is a huge problem with start-ups in Estonia. The majority of people have no experience whatsoever. Most business plans are, at best, ridiculously naive. The government is giving out grants without any meaningful insight which business plans may work and which will not. What The Economist does not tell their readers is that the majority of start-ups fail and the few that succeed emigrate from Estonia to Asia, the UK and the States. On balance Estonia does not benefit greatly from start-ups, start-ups do not create many (long-term) jobs nor generate enough taxes for the funding to be justified.
+There is an interesting blog worth reading by start-up insiders about the bubble in Estonia: doteebubble.blogspot.com (I have no connection to the blog).
+And lastly, Estonia is one of the poorest countries in Europe. The government received a record number of food aid from the EU this year. More than 10% of the population is starving: http://news.err.ee/society/ca3fb7a2-4998-4729-b508-3f5eed2bcecf . The corruption is rife. In June the media reported that the ruling Reform party has been busy buying votes. So much for the e-government and transparency. If Estonia is so successful, well-connected and rich, why are Estonians leaving the country in huge numbers: http://www.forbes.com/sites/markadomanis/2013/07/13/estonia-and-the-depa... ?
+
+Recommend
+62
+ReportPermalink
+Didomykin reply to local37Aug 1st 2013, 12:14
+When talking about a comparison of internet speeds, some TE readers in Hong Kong, South Korea, Singapore and other countries must have a smile on their faces. What, Estonia ??? Are you kidding ?
+
+Recommend
+58
+ReportPermalink
+indusvalley-ianin reply to typingmonkeyJul 31st 2013, 20:56
+Modi taking leadership...analyse this- It's the Estonians and their culture manifested in their high development. Its the change within the people and their rational thinking led to their development. Lets go with the contentions
+
+1) Estonians are rational thinking people vs rationalism in Indians
+2) Estonia separated religion from State vs the hindutava nation ideology which the party he (modi) represents
+3)Freedom of press vs banning of "Great Soul: Mahatma Gandhi" book by Gujarat
+4)Thrusting the cultural identity (e.g which God to worship) on indigenous people who has their own way of worship vs complete freedom in Estonia
+5) Caste-ism vs flat society of estonia
+6) Excuses for Administration failure in well known riot vs decisive administration
+
+If atleast all of the above points scored positive for India or Modi, India will be a nation to look upto. With blind faith and culture and casteism and sur name flaunting people exist..these cannot be achieved. Oh, well we know the lobby in the digital media for Modi.
+
+Recommend
+58
+ReportPermalink
+Loved.laJul 31st 2013, 20:21
+So, ten programmers from Skype (which was made by two guys from Sweden, as I remember, and those guys made the most money) jump-started a start-up scene in Estonia? Where are all the other successful startups?
+
+Recommend
+58
+ReportPermalink
+nW4KsQBatQAug 1st 2013, 11:00
+Well, "E-stonia" is mostly a marketing ploy; it's not really all that difficult to just adopt technology. Most Northern Europe is pretty keen on gadgets.
+
+Recommend
+57
+ReportPermalink
+FormerRepublicanJul 31st 2013, 17:22
+Can we outsource Congress to Estonia? Not only would we save a lot of money but get good governance also. Talk about legacy systems: the US still uses archaic English measurements, paper money to buy a newspaper, the best government that bribery can buy, etc.
+
+- See more at: http://www.economist.com/blogs/economist-explains/2013/07/economist-explains-21?fb_action_ids=10152673155754235&fb_action_types=og.likes&fb_ref=scn%2Ffb_ec%2Fhow_did_estonia_become_a_leader_in_technology_&fb_source=feed_opengraph&action_object_map=%7B%2210152673155754235%22%3A204914266335299%7D&action_type_map=%7B%2210152673155754235%22%3A%22og.likes%22%7D&action_ref_map=%7B%2210152673155754235%22%3A%22scn%5C%2Ffb_ec%5C%2Fhow_did_estonia_become_a_leader_in_technology_%22%7D#sthash.lIXj3yjX.dpuf
